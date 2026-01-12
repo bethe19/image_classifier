@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "trained_date": "2026-01-09T18:37:50.245989",
+  "algorithm": "CNN_VGG16",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "classes": [
+    "donkey",
+    "horse"
+  ],
+  "class_indices": {
+    "donkey": 0,
+    "horse": 1
+  },
+  "metrics": {
+    "validation_accuracy": 0.8163265585899353,
+    "test_accuracy": 0.8163265306122449,
+    "confusion_matrix": [
+      [
+        76,
+        24
+      ],
+      [
+        12,
+        84
+      ]
+    ]
+  }
+}

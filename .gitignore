@@ -22,10 +22,6 @@ wheels/
 .installed.cfg
 *.egg
 
-models/*.h5
-models/*.pkl
-models/*.json
-
 .ipynb_checkpoints
 
 .vscode/
